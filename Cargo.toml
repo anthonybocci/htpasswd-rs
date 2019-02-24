@@ -5,3 +5,4 @@ authors = ["Anthony BOCCI <boccianthony@yahoo.fr>"]
 edition = "2018"
 
 [dependencies]
+bcrypt = "0.3.0"
